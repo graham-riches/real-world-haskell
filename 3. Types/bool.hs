@@ -1,0 +1,6 @@
+data Bool = False | True
+
+
+
+
+
